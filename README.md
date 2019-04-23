@@ -2,7 +2,7 @@
 
 Permits loading, pasting, and publishing small images directly into the editor, without hosting elsewhere, using dataURL feature.
 
-If using within Elgg framework, also install Elgg-Allow-Data-Images plugin.
+If using within [Elgg](https://elgg.org/) framework, also install [Elgg-Allow-Data-Images](https://github.com/themanyone/Elgg-Allow-Data-Images) plugin.
 
 Copyright &copy; 2019 Henry Kroll III. See LICENSE.txt for details. -- henry @ [thenerdshow.com](https://thenerdshow.com/)
 
@@ -62,8 +62,7 @@ Add `paste_image` to the line that says `extraPlugins`.
 extraPlugins: 'open_save,paste_image,speech',
 ```
 
-### Optional [CKEditor 
-Addons](https://github.com/hypeJunction/Elgg-ckeditor_addons) plugin 
+### Optional [CKEditor Addons](https://github.com/hypeJunction/Elgg-ckeditor_addons) plugin 
 for [Elgg](https://elgg.org/).
 
 [CKEditor Addons](https://github.com/hypeJunction/Elgg-ckeditor_addons) 
