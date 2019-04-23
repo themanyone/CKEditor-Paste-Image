@@ -1,5 +1,5 @@
 /* paste_image CKEDITOR plugin
- * Copyright(C) 2017 Henry Kroll III, thenerdshow.com
+ * Copyright(C) 2019 Henry Kroll III, thenerdshow.com
  * Apache 2.0 License
  * Implements local inline image paste/drop/upload from files/image editors
  */
